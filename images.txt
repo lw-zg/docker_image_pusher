@@ -2,5 +2,3 @@ deluan/navidrome:latest
 nyanmisaka/jellyfin:latest
 adguard/adguardhome:latest
 jeessy/ddns-go:latest
-photoprism/photoprism:latest
-ghcr.io/immich-app/immich-server:latest
