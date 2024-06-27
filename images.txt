@@ -2,4 +2,4 @@ deluan/navidrome:latest
 nyanmisaka/jellyfin:latest
 adguard/adguardhome:latest
 jeessy/ddns-go:latest
-immich-app/immich-server:latest
+hanxi/xiaomusic:latest
