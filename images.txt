@@ -3,3 +3,4 @@ nyanmisaka/jellyfin:latest
 adguard/adguardhome:latest
 jeessy/ddns-go:latest
 hanxi/xiaomusic:latest
+ddsderek/wxchat:latest
