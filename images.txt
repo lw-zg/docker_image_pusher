@@ -4,3 +4,4 @@ adguard/adguardhome:latest
 jeessy/ddns-go:latest
 hanxi/xiaomusic:latest
 ddsderek/wxchat:latest
+gdy666/lucky:latest
