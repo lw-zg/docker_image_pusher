@@ -7,3 +7,4 @@ ddsderek/wxchat:latest
 gdy666/lucky:latest
 whyour/qinglong:latest
 portainer/portainer-ce:latest
+justarchi/archisteamfarm:latest
