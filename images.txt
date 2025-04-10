@@ -8,3 +8,4 @@ gdy666/lucky:latest
 whyour/qinglong:latest
 portainer/portainer-ce:latest
 justarchi/archisteamfarm:latest
+jxxghp/moviepilot-v2:latest
