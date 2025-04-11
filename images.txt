@@ -10,3 +10,4 @@ portainer/portainer-ce:latest
 justarchi/archisteamfarm:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
+0nlylty/dockercopilot:latest
