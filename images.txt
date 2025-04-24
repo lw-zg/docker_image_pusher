@@ -1,13 +1,9 @@
 deluan/navidrome:latest
 nyanmisaka/jellyfin:latest
 adguard/adguardhome:latest
-jeessy/ddns-go:latest
 hanxi/xiaomusic:latest
 ddsderek/wxchat:latest
 gdy666/lucky:latest
 whyour/qinglong:latest
-portainer/portainer-ce:latest
-justarchi/archisteamfarm:latest
 jxxghp/moviepilot-v2:latest
 jxxghp/moviepilot:latest
-0nlylty/dockercopilot:latest
