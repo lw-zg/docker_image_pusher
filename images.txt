@@ -10,3 +10,4 @@ jxxghp/moviepilot:latest
 eternalcurse/pt-accelerator:latest
 0nlylty/dockercopilot:latest
 easychen/cookiecloud:latest
+qdtoday/qd:latest
