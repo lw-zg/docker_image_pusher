@@ -6,7 +6,6 @@ ddsderek/wxchat:latest
 gdy666/lucky:latest
 whyour/qinglong:latest
 jxxghp/moviepilot-v2:latest
-jxxghp/moviepilot:latest
 eternalcurse/pt-accelerator:latest
 0nlylty/dockercopilot:latest
 easychen/cookiecloud:latest
