@@ -10,3 +10,4 @@ eternalcurse/pt-accelerator:latest
 0nlylty/dockercopilot:latest
 easychen/cookiecloud:latest
 qdtoday/qd:latest
+koryking/1panel:latest
